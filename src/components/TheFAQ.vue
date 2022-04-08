@@ -29,7 +29,7 @@
 			<h3 class="reponse">Yes, every page with that keyword in the URL will be blocked.</h3>
 			<h2 class="question">How does the AI filter work ?</h2>
 			<h3 class="reponse">
-				The AI Filter is a deeplearning AI model, based on the open source nsjwjs library.
+				The AI Filter is a deeplearning AI model, based on the open source nsfwjs library.
 			</h3>
 			<h2 class="question">Does the AI Filter affect performance ?</h2>
 			<h3 class="reponse">
